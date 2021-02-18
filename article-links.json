@@ -13,5 +13,11 @@
     "title": "【js】手动实现一个es6模板字符串",
     "link": "https://www.shifeng1993.com/2019/03/05/js_temp_str/",
     "category": "JavaScript"
+  },
+  {
+    "title": "JavaBean",
+    "link": "https://www.liaoxuefeng.com/wiki/1252599548343744/1260474416351680",
+    "category": "Java",
+    "backup": "html/JavaBean.html"
   }
 ]

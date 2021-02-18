@@ -5,32 +5,35 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>十甫寸木南的收集页</title>
   <script>
-    var articleLinks = undefined
+    let articleLinks = undefined
+
     function readTextFile(file, callback) {
       const rawFile = new XMLHttpRequest();
       rawFile.overrideMimeType("application/json");
       rawFile.open("GET", file, true);
-      rawFile.onreadystatechange = function() {
-          if (rawFile.readyState === 4 && rawFile.status == "200") {
-              callback(rawFile.responseText);
-          }
+      rawFile.onreadystatechange = function () {
+        if (rawFile.readyState === 4 && rawFile.status == "200") {
+          callback(rawFile.responseText);
+        }
       }
       rawFile.send('{"a":"b"}');
     }
+
     function renderLinks(links) {
       const articles = document.getElementById("articles");
       articles.innerHTML = articleLinks
-        .map(link => `<li><a href="${link.link}">${link.title}</a></li>`)
-        .join(' ');
+         .map(link => `<li><a href="${link.link}">${link.title}</a></li>`)
+         .join(' ');
     }
-    readTextFile("./article-links.json", function(text){
+
+    readTextFile("./article-links.json", function (text) {
       articleLinks = JSON.parse(text);
       renderLinks(articleLinks);
     });
   </script>
 </head>
 <body>
-  <ul id="articles" style="list-style: none;margin: 0;padding: 0;">
-  </ul>
+<ul id="articles" style="list-style: none;margin: 0;padding: 0;">
+</ul>
 </body>
 </html>
