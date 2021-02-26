@@ -37,5 +37,10 @@
     "link": "https://www.liaoxuefeng.com/wiki/1252599548343744/1260473188087424",
     "category": "Java",
     "example": "https://github.com/SFCMN/growing-programmer/tree/main/Java/JDK/src/com/sfcmn/jdk/enums"
+  },
+  {
+    "title": "@Autowire和@Resource注解使用的正确姿势，别再用错的了！！",
+    "link": "https://mp.weixin.qq.com/s/hKu7VAukSQOH_lAFWVxyDA",
+    "category": "Java - Spring"
   }
 ]
