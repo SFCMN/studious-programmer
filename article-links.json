@@ -47,5 +47,10 @@
     "title": "为什么不建议在 MySQL 中使用 UTF-8？",
     "link": "https://mp.weixin.qq.com/s/xsvyesgROcl0rQSPoJquxw",
     "category": "MySQL"
+  },
+  {
+    "title": "命令行 & 终端 & Shell",
+    "link": "https://mp.weixin.qq.com/s/J9fN-ND4Do9cEpL5lqdarA",
+    "category": "Linux"
   }
 ]
