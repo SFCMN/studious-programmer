@@ -31,5 +31,11 @@
     "category": "Java",
     "backup": "html/【JDK14+】record 类.html",
     "example": "https://github.com/SFCMN/growing-programmer/tree/main/Java/JDK/src/com/sfcmn/jdk14/records"
+  },
+  {
+    "title": "【JDK】enum - 枚举",
+    "link": "https://www.liaoxuefeng.com/wiki/1252599548343744/1260473188087424",
+    "category": "Java",
+    "example": "https://github.com/SFCMN/growing-programmer/tree/main/Java/JDK/src/com/sfcmn/jdk/enums"
   }
 ]
