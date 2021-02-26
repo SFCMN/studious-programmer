@@ -52,5 +52,10 @@
     "title": "命令行 & 终端 & Shell",
     "link": "https://mp.weixin.qq.com/s/J9fN-ND4Do9cEpL5lqdarA",
     "category": "Linux"
+  },
+  {
+    "title": "tty到底是个啥？",
+    "link": "https://blog.csdn.net/qq_37164975/article/details/114141704",
+    "category": "Linux"
   }
 ]
