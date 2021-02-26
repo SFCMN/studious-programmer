@@ -42,5 +42,10 @@
     "title": "@Autowire和@Resource注解使用的正确姿势，别再用错的了！！",
     "link": "https://mp.weixin.qq.com/s/hKu7VAukSQOH_lAFWVxyDA",
     "category": "Java - Spring"
+  },
+  {
+    "title": "为什么不建议在 MySQL 中使用 UTF-8？",
+    "link": "https://mp.weixin.qq.com/s/xsvyesgROcl0rQSPoJquxw",
+    "category": "MySQL"
   }
 ]
