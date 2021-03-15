@@ -67,5 +67,10 @@
     "title": "JavaScript 中【return void(0)；】与【return；】的区别",
     "link": "https://blog.csdn.net/qq_37164975/article/details/114694644",
     "category": "JavaScript"
+  },
+  {
+    "title": "【JavaScript】void 运算符",
+    "link": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/void",
+    "category": "JavaScript"
   }
 ]
