@@ -62,5 +62,10 @@
     "title": "javascript伪协议是什么？",
     "link": "https://www.html.cn/qa/javascript/11155.html",
     "category": "JavaScript"
+  },
+  {
+    "title": "JavaScript 中【return void(0)；】与【return；】的区别",
+    "link": "https://blog.csdn.net/qq_37164975/article/details/114694644",
+    "category": "JavaScript"
   }
 ]
