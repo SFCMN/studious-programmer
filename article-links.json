@@ -77,5 +77,18 @@
     "title": "JavaScript 中 == 与 === 的区别",
     "link": "https://blog.csdn.net/qq_37164975/article/details/114836284",
     "category": "JavaScript"
+  },
+  {
+    "title": "0.1 + 0.2 = 0.300000004",
+    "link": [
+      "https://www.cnblogs.com/backwords/p/9826773.html",
+      "https://draveness.me/whys-the-design-floating-point-arithmetic/",
+      "https://0.30000000000000004.com/",
+      "https://draveness.me/whys-the-design-decimal-and-rational/"
+    ],
+    "category": [
+      "Java",
+      "JavaScript"
+    ]
   }
 ]
